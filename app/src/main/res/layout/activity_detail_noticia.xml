@@ -1,0 +1,62 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_detail"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/background_action_bar" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        tools:context="com.example.fmendes.cuidadoprenatalapp.DetailNoticia"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:id="@+id/itulo_detail_noticia_textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/color_text"/>
+
+            <ImageView
+                android:id="@+id/noticia_detail_imageview"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@id/itulo_detail_noticia_textview"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/descricao_noticia_textview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/noticia_detail_imageview"
+                android:layout_margin="16dp"
+                android:text="Descrição da Noticia"
+                android:textColor="@color/color_text"/>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

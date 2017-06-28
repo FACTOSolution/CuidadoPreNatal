@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cuidado Pré-natal</string>
+    <string name="title_activity_detail_noticia">Informações</string>
+    <string name="title_activity_category">Noticias</string>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_calculo"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/background_action_bar"/>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        tools:context="com.example.fmendes.cuidadoprenatal.DetailNoticia"
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/titulo_calculo_gestacao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/color_text"/>
+
+            <ImageView
+                android:id="@+id/image_calculo"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@id/titulo_calculo_gestacao"
+                android:src="@drawable/gestacional"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/descricao_calculo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/image_calculo"
+                android:layout_margin="16dp"
+                android:text="Descrição da Noticia"
+                android:textColor="@color/color_text"/>
+
+
+            <EditText
+                android:id="@+id/edit_text_calendar_DUM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/descricao_calculo"
+                android:textColor="@color/color_text"
+                android:textSize="20sp"
+                android:layout_margin="16dp"
+                android:hint="Data da última Menstrução"
+                />
+
+            <EditText
+                android:id="@+id/edit_text_calendar_DUC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/color_text"
+                android:textSize="20sp"
+                android:hint="Data"
+                android:layout_alignBaseline="@+id/edit_text_calendar_DUM"
+                android:layout_alignBottom="@+id/edit_text_calendar_DUM"
+                android:layout_toRightOf="@+id/edit_text_calendar_DUM"
+                android:layout_toEndOf="@+id/edit_text_calendar_DUM" />
+
+            <TextView
+                android:id="@+id/resultado_idade_gestacao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/edit_text_calendar_DUC"
+                android:layout_margin="16dp"
+                android:textSize="18sp"
+                android:textColor="@color/color_text"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/resultado_data_parto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/resultado_idade_gestacao"
+                android:layout_margin="16dp"
+                android:textColor="@color/color_text"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/calcula_button"
+                android:layout_below="@id/edit_text_calendar_DUC"
+                android:layout_marginTop="200dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="16sp"
+                android:layout_marginRight="8sp"
+                android:layout_marginLeft="8sp"
+                android:text="Calcular"
+                android:textColor="@android:color/white"
+                android:background="@color/background_action_bar"
+                android:onClick="onClick"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

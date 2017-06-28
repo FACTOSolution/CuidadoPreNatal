@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fmendes\.android\build-cache\c5aa3a15e658a1d5c4f606d03ba439ec8e720686\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddbb18de2e1d3f273d79d396193bb872e952dcbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d0cb62b259c33f465034f65ac8081fa97870f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7eabd3f785ff3d2341ee485ea62c733c0f1e2773">
+        <dex dex="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_74cc79b071b5d994b349b4ffd85709a41345e9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fmendes\.android\build-cache\3abaa2d8292df95e4e8862ab5f47300205d09f32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5dc9c2ab8736035307035b979844beeb4361e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fmendes\.android\build-cache\32e0e3b1afbf019789728273fb91b683a02473a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Fmendes\Desktop\Trabalhos_Iniciacao\Rrendrr-SkinDetection-master\CuidadoPreNatalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5da7850719fa37902a5c402a0c898c20682399d\classes.dex" />
+    </item>
+
+</items>
