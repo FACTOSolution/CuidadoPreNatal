@@ -129,7 +129,7 @@ public class ListNoticias extends AppCompatActivity {
         noticia.setImagemAutor(R.drawable.user);
         noticia.setImg(R.drawable.o_q_fazer);
         noticia.setAutor("Autor 2");
-        noticia.setDescricao("1-Enjôo e vômitos \n" +
+        noticia.setDescricao("1- Enjôo e vômitos \n" +
                 "\n" +
                 "•\tTer uma alimentação de 3/3 horas (3 refeições e 3 lanches por dia), evitando passar muito tempo sem comer;\n" +
                 "•\tComer logo ao acordar, de preferência alimentos pastosos a secos (pão, bolacha, torrada);\n" +
@@ -139,90 +139,90 @@ public class ListNoticias extends AppCompatActivity {
                 "Para diminuir as náuseas pode ser utilizado gengibre, camomila, vitamina B6 e /ou acunpuntura de acordo com as opções disponíveis e preferências da mulher. \n" +
                 "\nSe ocorrer a manutenção dos sintomas procurar um profissional de saúde para avaliação.\n" +
                 "\n" +
-                "2-Azia, queimação e dor no estômago\n" +
+                "2- Azia, queimação e dor no estômago\n" +
                 "\n" +
                 "•\tSeguir a alimentação semelhante à indicada para enjôo e vômitos;\n" +
                 "•\tEvitar beber líquidos durante as refeições;\n" +
                 "•\tEvitar ficar na posição deitada após as refeições;\n" +
                 "•\tIngerir líquidos gelados na crise de azia;\n" +
-                "•\tSuspender o uso café, chá preto e mate, alimentos gordurosos, alimentos picantes, frutas cítricas (laranja, caju, acerola, abacaxi, limão) álcool e fumo. \n" +
+                "•\tSuspender o uso do café, chá preto e mate, alimentos gordurosos, alimentos picantes, frutas cítricas (laranja, caju, acerola, abacaxi, limão), álcool e fumo. \n" +
                 "\n" +
                 "Se ocorrer a manutenção dos sintomas procurar um profissional de saúde para avaliação e prescrição de medicamentos.\n" +
                 "\n" +
-                "3-Salivação excessiva \n" +
+                "3- Salivação excessiva \n" +
                 "\n" +
                 "•\tSeguir a alimentação semelhante à indicada para enjôo e vômitos;\n" +
                 "•\tAumentar a ingestão de líquidos.\n" +
                 "\n" +
-                "4-Fraquezas e Desmaios\n" +
+                "4- Fraquezas e desmaios\n" +
                 " \n" +
                 "•\tNão fazer mudanças bruscas de posição;\n" +
                 "•\tDieta de 3/3 horas, evitando grandes intervalos entre as refeições;\n" +
                 "•\tEvitar também ingerir grandes quantidades de alimentos de uma só vez;\n" +
                 "•\tPara melhorar sente-se com a cabeça abaixada ou deite de lado, respirando profunda e pausadamente.\n" +
                 " \n" +
-                "5-Gases e intestino preso\n" +
+                "5- Gases e intestino preso\n" +
                 "\n" +
                 "•\tDieta rica em fibras: frutas cítricas (laranja, abacaxi, goiaba, acerola), verduras, mamão, ameixas e cereais integrais (aveia, linhaça, trigo e arroz integral, milho, quinoa); \n" +
                 "•\tAumentar a ingestão de líquidos;\n" +
                 "•\tFazer caminhada regularmente.\n" +
                 "\n" +
-                "6-Hemorróidas \n" +
+                "6- Hemorróidas \n" +
                 "\n" +
                 "•\tAlimentação rica em fibras: frutas cítricas (laranja, abacaxi, goiaba, acerola), verduras, mamão, ameixas e cereais integrais (aveia, linhaça, trigo e arroz integral, milho, quinoa); \n" +
                 "•\tEvitar usar papel higiênico, fazer a higiene íntima com água e sabão, enxugando com uma toalha macia após evacuação (defecar).\n" +
                 "\nAgende consulta, se houver dor ou sangramento anal com frequência.\n" +
-                "\n7-Corrimento vaginal \n" +
+                "\n7- Corrimento vaginal \n" +
                 "\n" +
                 "•\tO aumento de fluxo vaginal é comum na gestação por isso só use creme vaginal prescrito pelo profissional de saúde;\n" +
                 "\nAgende sua consulta pré-natal se houver secreção de cor amarelada, esverdeada, com mau cheiro ou caso haja coceira. \n" +
                 "\n" +
-                "8-Problemas Urinários \n" +
+                "8- Problemas urinários \n" +
                 "\nA vontade de urinar várias vezes é comum no início e no final da gestação (devido ao aumento do útero comprimindo à bexiga);\n" +
                 "\n•\tAumentar a ingestão de líquidos.\n" +
                 "\nInforme na consulta pré-natal se sente dor ao urinar, desconforto na região do baixo ventre e sangramento na urina.\n" +
-                "\n9-Falta de ar e dificuldade pra respirar\n" +
+                "\n9- Falta de ar e dificuldade pra respirar\n" +
                 " \n" +
                 "•\tProcure ficar de repouso deitada do lado esquerdo;\n" +
                 "•\tPara diminuir a ansiedade converse com alguém sobre suas angústias.\n" +
                 "Se houver outros sintomas como tosse, febre, inchaço, chiado no peito ou outros procure avaliação. \n" +
-                "\n10-Dor nas costas\n" +
+                "\n10- Dor nas costas\n" +
                 "\n" +
                 "•\tProcure manter a coluna reta ao sentar e ao andar;\n" +
                 "•\tUsar apenas calçados baixos e confortáveis;\n" +
                 "•\tRealizar atividades de alongamento e orientação postural. \n" +
                 "•\tExercícios regulares evitam dores lombares e pélvicas. \n" +
                 "\n" +
-                "11-Sangramento nas gengivas\n" +
+                "11- Sangramento nas gengivas\n" +
                 " \n" +
                 "•\tEscove os dentes após as refeições e antes de dormir;\n" +
                 "•\tUtilize fio dental.\n" +
                 "\n" +
                 "Procure atendimento odontológico.\n" +
                 "\n" +
-                "12-Varizes\n" +
+                "12- Varizes\n" +
                 "\n" +
                 "•\tEvite ficar muito tempo em pé ou sentada;\n" +
                 "•\tDescanse com as pernas elevadas (20 minutos) várias vezes ao dia;\n" +
                 "•\tEvite roupas apertadas;\n" +
                 "•\tUse meia-calça elástica de descanso para gestante, se possível. \n" +
                 "\n" +
-                "13-Câimbras\n" +
+                "13- Câimbras\n" +
                 " \n" +
                 "•\tDurante a crise massagear o músculo contraído e aplicar compressa morna no local;\n" +
                 "•\tNão exagerar no exercício físico.\n" +
                 "\n" +
-                "14-Manchas escuras no rosto \n" +
+                "14- Manchas escuras no rosto \n" +
                 "\n" +
                 "•\tUsar protetor solar;\n" +
-                "•\tEvitar se expor ao sol diretamente, utilizar chapéu,bonés,viseiras sombria ou guarda-sol e óculos.\n" +
+                "•\tEvitar se expor ao sol diretamente, utilizar chapéu,bonés,viseiras sombrinha ou guarda-sol e óculos.\n" +
                 "\n" +
-                "15-Nariz entupido e sangramento nasal \n" +
+                "15- Nariz entupido e sangramento nasal \n" +
                 "\n" +
-                "•\tUse soro fisiológico em cada nariz se houver congestão;\n" +
+                "•\tUse soro fisiológico em cada narina se houver congestão;\n" +
                 "•\tApertar levemente o nariz em caso de sangramento.\n" +
                 "\n" +
-                "16-Edema (inchaço)\n" +
+                "16- Edema (inchaço)\n" +
                 "\n" +
                 "•\tPara aliviar o edema a gestante deve evitar permanecer em pé ou sentada por muito tempo. \n" +
                 "•\tA posição mais indicada para deitar é do lado esquerdo que favorece a circulação do sangue.\n");
@@ -237,7 +237,7 @@ public class ListNoticias extends AppCompatActivity {
     public void noticia2_1(){
 
         Noticia noticia = new Noticia();
-        noticia.setTitulo("Cuidado Pré-Natal");
+        noticia.setTitulo("Pré-Natal");
         noticia.setImagemAutor(R.drawable.user);
         noticia.setImg(R.drawable.cuidado_pre_natal);
         noticia.setAutor("Autor");
@@ -269,7 +269,7 @@ public class ListNoticias extends AppCompatActivity {
                 "4-\tGlicemia de jejum;\n" +
                 "5-\tUrina tipo I;\n" +
                 "6-\tUrocultura e antibiograma;\n" +
-                "7-\tTeste rápido par sífilis ou VDRL;\n" +
+                "7-\tTeste rápido para sífilis ou VDRL;\n" +
                 "8-\tTeste rápido para HIV ou sorologia; \n" +
                 "9-\tSorologia para hepatite B (HbsAg);\n" +
                 "10-\tToxoplasmose;\n" +
@@ -288,7 +288,7 @@ public class ListNoticias extends AppCompatActivity {
                 "8-\tToxoplasmose (se não reagente no primeiro exame).\n" +
                 "\nOutros exames que podem ser solicitados: \n\n" +
                 "1-\tParasitológico de fezes;\n" +
-                "2-\tTeste de Malária (em áreas de risco); \n" +
+                "2-\tTeste de malária (em áreas de risco); \n" +
                 "3-\tCitologia oncótica (prevenção do câncer de colo do útero).\n" +
                 "\n" +
                 "\nPrevenção do Câncer de Colo de Útero\n\n" +
@@ -324,7 +324,7 @@ public class ListNoticias extends AppCompatActivity {
                 "\nO ácido fólico é encontrado em alimentos como vegetais folhosos verdes frutas cítricas, alimentos integrais, legumes e bife de fígado.\n" +
                 "\nVocê sabia?\n" +
 
-                "\nEm mulheres que já tenham um filho com defeito no sistema nervoso para reduzir o risco de repetição deste defeito é recomendado 4,0-5,0 mg de ácido fólico por dia na próxima gravidez.\n" +
+                "\nEm mulheres que já tenham um filho com defeito no sistema nervoso para reduzir o risco de repetição desse defeito é recomendado 4,0-5,0mg de ácido fólico por dia na próxima gravidez.\n" +
                 "\nA alimentação deve ser saudável e balanceada, estimulando a ingestão de água e fibras. A gestante deve ingerir frutas, verduras e legumes, leite e derivados, que contêm nutrientes importantes para o crescimento do bebê, da mesma forma que podem contribuir para evitar o ganho excessivo de peso. \n" +
                 "\nO consumo de alimentos regionais é saudável durante a gestação. Eles podem ser encontrados em feiras, mercados e no quintal de casa.\n" +
                 "\nAbaixo segue a lista de algumas vitaminas e minerais que devem ser consumidas no período da gestação: \n" +
@@ -358,27 +358,28 @@ public class ListNoticias extends AppCompatActivity {
                 "Ganho de Peso na Gestação\n\n" +
                 "Os hábitos alimentares saudáveis e adequados exercem uma importante influência sobre o resultado da gravidez.\n" +
                 "\nProcure conversar com o profissional que realiza seu pré-natal sobre o ganho de peso recomendado na gestação e estabeleça as estratégias para melhoria dos hábitos alimentares.\n" +
-                "\nPara mulher de baixo peso antes da gestação o ganho recomendado é de 12,5 Kg a 18 Kg; mulheres com peso normal o ganho recomendado é de 11,5Kg a 16Kg; mulheres com sobrepeso recomenda-se aumentar de 7Kg a 11,5Kg e em mulheres obesas menos de 7Kg ." +
+                "\nPara mulher de baixo peso antes da gestação o ganho recomendado é de 12,5 Kg a 18 Kg; mulheres com peso normal o ganho recomendado é de 11,5Kg a 16Kg; mulheres com sobrepeso recomenda-se aumentar de 7Kg a 11,5Kg e em mulheres obesas de 5Kg a 9Kg ." +
                 "\n" +
                 "\nO ganho de peso inadequado interfere no crescimento e desenvolvimento do recém-nascido.  \n" +
                 "\nA gestante acima do peso tem maior risco para diabetes na gestação, aumento da pressão arterial, nascimento antes do tempo, defeitos no sistema nervoso da criança e ao aumento de partos cesáreo. \n" +
-                "\nA gestante com baixo peso há um maior risco de parto antes do tempo. \n" +
+                "\nEm gestantes com baixo peso há um maior risco de parto antes do tempo. \n" +
                 "\nVocê sabia?\n\n" +
 
                 "\nGrávidas com baixo peso antes da gestação tem 9 (nove) vezes mais chance de ganho insuficiente de peso, quando comparadas com mulheres de peso normal antes da gestação.\n" +
                 "\nMulheres que ganham peso abaixo das diretrizes tem mais chances de terem recém-nascidos pequenos para a idade gestacional. \n" +
                 "\nMulheres com peso normal e mulheres com baixo peso que seguem as recomendações têm um risco menor de baixo peso ao nascer. \n" +
                 "\nAs mulheres que deram à luz fetos com baixo peso ao nascer tinham um risco cinco vezes maior de asfixia neonatal no prazo de 7 (sete) dias após o nascimento. \n" +
-                "\nA gestante que inicia o pré-natal com sobrepeso/obesidade tem mais chance de ter ganho de peso excessivo na gravidez. \n" +
+                "\nA gestante que inicia o pré-natal com sobrepeso/obesidade tem mais chance de ter ganho de peso excessivo na gravidez. O ganho de peso precisa ser discutido com todas as mulheres, independentemente do peso anterior à gestação.  \n" +
+
 
                 "\nDez Passos para Alimentação Saudável em Gestantes \n\n" +
                 "   Fonte Ministério da Saúde/MS \n" +
-                "\n1.\tFaça pelo menos três refeições (café da manhã, almoço e jantar) e dois lanches saudáveis por dia, evitando ¬ ficar mais de três horas sem comer. Entre as refeições beba água, pelo menos 2 litros (6 a 8 copos) por dia.\n" +
+                "\n1.\tFaça pelo menos três refeições (café da manhã, almoço e jantar e dois lanches saudáveis por dia, evitando ¬ ficar mais de três horas sem comer. Entre as refeições beba água, pelo menos 2 litros (6 a 8 copos) por dia.\n" +
                 "\n2.\tInclua diariamente nas refeições seis porções do grupo de cereais (arroz, milho, pães e alimentos feitos com farinha de trigo e milho), tubérculos como as batatas e raízes como a mandioca/ macaxeira/aipim. Dê preferência aos alimentos na sua forma mais natural, pois além de serem fontes de carboidratos, são boas fontes de ¬ fibras, vitaminas e minerais.\n" +
                 "\n3.\tProcure consumir diariamente pelo menos três porções de legumes e verduras como parte das refeições e três porções ou mais de frutas nas sobremesas e lanches.\n" +
                 "\n4.\tComa feijão com arroz todos os dias ou, pelo menos, cinco vezes por semana. Esse prato brasileiro é uma combinação completa de proteínas e excelente para a saúde.\n" +
                 "\n5.\tConsuma diariamente três porções de leite e derivados e uma porção de carnes, aves, peixes ou ovos. Retire a gordura aparente das carnes e a pele das aves antes da preparação, tornando esses alimentos mais saudáveis!\n" +
-                "\n6.\tDiminua o consumo de gorduras. Consuma, no máximo, uma porção diária de óleos vegetais, azeite e manteiga. Fique atenta aos rótulos (embalagens) dos alimentos e pre¬fira aqueles livres de gorduras trans.\n" +
+                "\n6.\tDiminua o consumo de gorduras. Consuma, no máximo, uma porção diária de óleos vegetais, azeite e manteiga. Fique atenta aos rótulos (embalagens) dos alimentos e prefira aqueles livres de gorduras trans.\n" +
                 "\n7.\tEvite refrigerantes e sucos industrializados, biscoitos recheados e outras guloseimas no seu dia a dia.\n" +
                 "\n8.\tDiminua a quantidade de sal na comida e retire o saleiro da mesa. Evite consumir alimentos industrializados com muito sal (sódio) como hambúrguer, charque, salsicha, linguiça, presunto, salgadinhos, conservas de vegetais, sopas prontas, molhos e temperos prontos.\n" +
                 "\n9.\tPara evitar a anemia, consuma diariamente alimentos fontes de ferro como: carnes, vísceras, feijão, lentilha, grão-de-bico, soja, folhas verde-escuras, grãos integrais, castanhas e outros. Consuma junto alimentos fontes de vitamina C como: acerola, laranja, caju, limão e outros. \n" +
@@ -421,7 +422,7 @@ public class ListNoticias extends AppCompatActivity {
         noticia.setImagemAutor(R.drawable.user);
         noticia.setImg(R.drawable.vacinas);
         noticia.setAutor("Autor");
-        noticia.setDescricao("As vacinas aplicadas no pré-natal dão proteção a gestante e ao recém-nascido. De acordo com seu estado vacinal anterior é feito o planejamento das vacinas que devem ser administradas na gestação.\n" +
+        noticia.setDescricao("As vacinas aplicadas no pré-natal dão proteção à gestante e ao recém-nascido. De acordo com seu estado vacinal anterior é feito o planejamento das vacinas que devem ser administradas na gestação.\n" +
                 "\n• dT/dTpa  \n\n" +
                 "A vacina dT protege contra difteria e tétano.\n" +
                 "\nA vacina dTpa protege contra difteria, tétano e coqueluche (aplicada a partir da 20ª semana de gestação).\n" +
@@ -456,7 +457,7 @@ public class ListNoticias extends AppCompatActivity {
                 "\nDe todos os sintomas o mais comum é a vermelhidão no corpo." +
                 "\nComplicações da doença na gravidez:\n\n" +
                 "\nEfeitos sobre o sistema nervoso, tanto a mãe como no bebê (microcefalia).\n" +
-                "\nPrevenção Zika na gravidez:\n" +
+                "\nPrevenção do Zika na gravidez:\n" +
                 "\n•\tEliminar criadouros (locais que acumulam água parada, exemplos: pneus, latas, vidros, garrafas, tampinhas de garrafas, vasos de flores, pratos de vasos, caixas de água e outros) do mosquito em casa e arredores; \n" +
                 "\n•\tAs mulheres grávidas precisam usar repelente, roupa de manga comprida e calças; \n" +
                 "\n•\tColocar telas em janelas e portas.\n" +
@@ -478,7 +479,7 @@ public class ListNoticias extends AppCompatActivity {
         noticia.setAutor("Autor");
         noticia.setDescricao("Consumir drogas ou álcool durante a gravidez não é aconselhável. No planejamento da gestação, a mulher deve abandonar esses hábitos e vícios que causam efeitos negativos para a mãe e o feto. \n" +
                 "\nA gravidez é um momento em que muitas mulheres são motivadas a parar, as mulheres que por ventura não conseguirem parar de beber por conta própria devem procurar apoio e assistência. \n" +
-                "\nO álcool pode levar síndromes e deficiência mental no feto. \n" +
+                "\nO álcool pode levar a síndromes e deficiência mental no feto. \n" +
                 "\nO consumo do álcool pode estar associado ao aumento do risco de aborto. \n" +
                 "\nO álcool é transferido facilmente para o leite humano durante a amamentação.\n");
 
@@ -499,8 +500,8 @@ public class ListNoticias extends AppCompatActivity {
                 "\nO fumo aumenta o número de atraso no crescimento fetal, trabalho de parto prematuro (antes do tempo), descolamento de placenta, aumento das doenças na infância, aumento de problemas escolares e diminuição do coeficiente de inteligência – QI.\n" +
                 "\nÉ recomendado que as mulheres evitem exposição à fumaça do cigarro.\n" +
                 "\nVocê sabia?\n" +
-                "\nEstudos mostram que a maior parcela das mulheres grávidas que fumam começa o pré-natal tardiamente, após as 20 semanas. \n" +
-                "\nAs mães não devem utilizar cigarro após o parto pois a nicotina (substância presente no cigarro) e seus compostos são passados ao bebê através do leite. Para reduzir a exposição da criança à fumaça, não é recomendado fumar próximo à ela.\n" +
+                "\nEstudos mostram que a maior parcela das mulheres grávidas que fumam começam o pré-natal tardiamente, após as 20 semanas. \n" +
+                "\nAs mães não devem utilizar cigarro após o parto pois a nicotina (substância presente no cigarro) e seus compostos são passados ao bebê através do leite. Para reduzir a exposição à fumaça, não é recomendado fumar próximo à criança.\n" +
                 "\nAs mulheres que pararam de fumar requerem maior atenção, a fim de alcançar um ganho de peso saudável. \n");
 
         arrayNoticia.add(noticia);
@@ -517,8 +518,8 @@ public class ListNoticias extends AppCompatActivity {
         noticia.setImg(R.drawable.sexo_na_gestacao);
         noticia.setAutor("Autor");
         noticia.setDescricao("Na gestação podem ocorrer mudanças no desejo e na disposição sexual devido diversos fatores.\n" +
-                "\nAs relações sexuais são permitidas. Evitar atividade sexual na presença de cólicas, sangramento ou perda de líquido. Tire suas dúvidas durante a consulta pré-natal.\n" +
-                "\nO uso do preservativo masculino ou feminino é indicado para proteção contra Infecções Sexualmente Transmissíveis – Ists.\n");
+                "\nAs relações sexuais são permitidas. Evitar atividade sexual na presença de cólicas, sangramento ou perda de líquido. Verifique durante a consulta pré-natal se existe algum motivo para evitar a atividade sexual.\n" +
+                "\nO uso do preservativo masculino ou feminino é indicado para proteção contra Infecções Sexualmente Transmissíveis – ISTs.\n");
 
         arrayNoticia.add(noticia);
         adapter.addItem(noticia);
@@ -539,7 +540,7 @@ public class ListNoticias extends AppCompatActivity {
                 "\nVocê sabia?\n\n" +
                 "A Organização Mundial de Saúde (OMS) recomenda a manutenção da atividade física na gravidez.  Na ausência de contraindicações é recomendado 30 minutos de exercício físico todos os dias da semana.\n" +
                 "\nOs exercícios quando desenvolvidos de forma adequada contribuem para a manutenção e promoção de um estilo de vida saudável. \n" +
-                "\nEstudos mostram que é preciso melhorar a divulgação das recomendações sobre atividade física, pois os níveis de atividade física durante a gravidez são baixos.\n" +
+                //"\nEstudos mostram que é preciso melhorar a divulgação das recomendações sobre atividade física, pois os níveis de atividade física durante a gravidez são baixos.\n" +
                 "\nPesquisas revelam que mulheres que fazem pouca atividade física durante a gravidez tiveram um risco duas vezes maior de ganhar peso acima do recomendado.\n");
 
         arrayNoticia.add(noticia);
@@ -572,10 +573,10 @@ public class ListNoticias extends AppCompatActivity {
                 "\nVocê sabia?\n" +
                 "\nÉ recomendado que os médicos incentivem o parto vaginal planejado após a cesariana anterior depois de observados os riscos e benefícios para a paciente.Os planos para o parto vaginal devem ser reavaliados no hospital considerando fatores de admissão e alterações.\n" +
                 "\nFique Atenta aos Sinais Violência à Mulher durante o Parto\n" +
-                "\n•\tOcorrência de agressões verbais ou físicas;\n" +
-                "•\tAdoção de práticas inadequadas como lavagem intestinal, retirada de pêlos íntimos, realização de corte na região vaginal sem indicação correta, não permitir que a mulher procure uma posição confortável durante o trabalho de parto e exame de toque por mais de um profissional;\n" +
-                "•\tO serviço de saúde recusar a presença do acompanhante da mulher na sala de parto; \n" +
-                "•\tTransferência para outro serviço de saúde sem garantia de vaga e sem transporte seguro. \n" +
+                "\nOcorrência de agressões verbais ou físicas;\n" +
+                "Adoção de práticas inadequadas como lavagem intestinal, retirada de pêlos íntimos, realização de corte na região vaginal sem indicação correta, não permitir que a mulher procure uma posição confortável durante o trabalho de parto e exame de toque por mais de um profissional;\n" +
+                "O serviço de saúde recusar a presença do acompanhante da mulher na sala de parto; \n" +
+                "Transferência para outro serviço de saúde sem garantia de vaga e sem transporte seguro. \n" +
                 "\nSe você sofrer algum tipo de violência, ligue para 180 – Central de Atendimento à Mulher e procure ajuda. A ligação é gratuita. \n");
 
         arrayNoticia.add(noticia);
@@ -603,7 +604,7 @@ public class ListNoticias extends AppCompatActivity {
                 "\nBENEFÍCIOS DO LEITE MATERNO PARA O BEBÊ: \n\n" +
                 "•\tContêm vitaminas, minerais, gorduras, açúcares, proteínas que não se pode encontrar em nenhum outro leite; \n" +
                 "•\tÉ de fácil digestão, apropriado ao estômago da criança;\n" +
-                "•\tSó ele tem substâncias que protegem o bebê contra doenças como: diarreia, pneumonias, infecção de ouvido, alergias, hipertensão arterial, diabetes, obesidade e muitas outras doenças; \n" +
+                "•\tSó ele tem substâncias que protegem o bebê contra doenças como: diarréia, pneumonias, infecção de ouvido, alergias, hipertensão arterial, diabetes, obesidade e muitas outras doenças; \n" +
                 "•\tO leite materno não precisa ser comprado, está pronto a qualquer hora, sempre na temperatura certa e livre de impurezas;\n" +
                 "•\tDar de mamar faz o bebê sentir-se seguro, é um ato de amor e carinho;\n" +
                 "•\tA amamentação diminui o número de cáries, problemas na fala e ajuda na prevenção de defeitos no fechamento dos dentes;\n" +
